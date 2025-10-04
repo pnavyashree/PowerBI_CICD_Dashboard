@@ -13,9 +13,9 @@ A Power BI dashboard analyzing CI/CD pipeline build data (DevOps + Data Analytic
 
 ## Files
 - `CICD_Dashboard.pbix` → Power BI file
-- `/screenshots/` → Dashboard images
+- `dashboard_overview` → Dashboard images
 - `README.md` → Documentation
 
 ## Demo
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard Screenshot](dashboard_overview.png)
 
